@@ -1,0 +1,470 @@
+{
+	"data": {
+		"cards": [{
+			"type": "container-banner",
+			"items": [{
+				"type": "1",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"id": "231",
+					"title": "Banner聚合页",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "1",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/30718347361497802.jpg",
+				"action": "ACTION_H5",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"url": "http://www.weinihaigou.com/m-html/index/index.html"
+				}
+			}, {
+				"type": "1",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"id": "231",
+					"title": "Banner聚合页",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "1",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/35383357070689761.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"id": "231",
+					"title": "Banner聚合页",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}],
+			"style": {
+				"aspectRatio": "2",
+				"autoScroll": "3000",
+				"infinite": "true",
+				"indicatorGravity": "center",
+				"indicatorPosition": "inside",
+				"indicatorStyle": "dot",
+				"indicatorRadius": "5",
+				"defaultIndicatorColor": "#333333",
+				"indicatorColor": "#B4B4B4",
+				"hasIndicator": "true",
+				"width": "-1"
+			}
+		}, {
+			"type": "container-scrollFix",
+			"items": [{
+				"type": "9",
+				"text": "顶部",
+				"action": "ACTION_GOTOP",
+				"style": {
+					"width": "60",
+					"height": "60"
+				}
+			}],
+			"style": {
+				"bgColor": "#00ffffff",
+				"align": "bottom_right",
+				"x": "20",
+				"y": "80",
+				"showType": "showOnLeave"
+			}
+		}, {
+			"type": "container-fourColumn",
+			"items": [{
+				"type": "2",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_COUNTRY",
+				"style": {
+					"aspectRatio": "1",
+					"margin": ["10", "5", "10", "10"]
+				}
+			}, {
+				"type": "2",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BRAND",
+				"style": {
+					"aspectRatio": "1",
+					"margin": ["10", "5", "10", "5"]
+				}
+			}, {
+				"type": "2",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_NORMALGOODS",
+				"style": {
+					"aspectRatio": "1",
+					"margin": ["10", "5", "10", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "新品"
+				}
+			}, {
+				"type": "2",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1",
+					"margin": ["10", "10", "10", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "超级量贩",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}]
+		}, {
+			"type": "container-twoColumn",
+			"items": [{
+				"type": "3",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场1",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "3",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场2",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "3",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场3",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "3",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "2"
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场4",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}],
+			"style": {
+				"bgColor": "#efefef",
+				"padding": ["10", "0", "0", "0"],
+				"vGap": "2",
+				"hGap": "2"
+			}
+		}, {
+			"type": "container-oneColumn",
+			"items": [{
+				"type": "4",
+				"text": "限时抢购",
+				"action": "ACTION_LIMITBUY",
+				"style": {
+					"bgColor": "#ffffff",
+					"width": "-1",
+					"height": "50"
+				}
+			}],
+			"style": {
+				"bgColor": "#efefef",
+				"padding": ["10", "0", "0", "0"]
+			}
+		}, {
+			"type": "container-oneColumn",
+			"items": [{
+				"type": "5",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_LIMITBUY",
+				"style": {
+					"aspectRatio": "1.7"
+				}
+			}]
+		}, {
+			"type": "container-scroll",
+			"items": [{
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_LIMITBUY",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_LIMITBUY",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_LIMITBUY",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_LIMITBUY",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_LIMITBUY",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_LIMITBUY",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_LIMITBUY",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				}
+			}],
+			"style": {
+				"pageHeight": "125",
+				"hasIndicator": "false",
+				"retainScrollState": "false",
+				"widthRatio": "3.5"
+			}
+		}, {
+			"type": "container-oneColumn",
+			"items": [{
+				"type": "5",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1.7"
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场4",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}]
+		}, {
+			"type": "container-scroll",
+			"items": [{
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}, {
+				"type": "6",
+				"imgUrl": "http://image.mihui365.com/bbc/middleImg/34162326426519622.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"widthRatio": "3.5",
+				"style": {
+					"margin": ["0", "0", "0", "5"]
+				},
+				"actionParams": {
+					"id": "19",
+					"title": "主题场",
+					"imgurl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg"
+				}
+			}],
+			"style": {
+				"pageHeight": "125",
+				"hasIndicator": "false",
+				"retainScrollState": "true",
+				"widthRatio": "3.5"
+			}
+		}, {
+			"type": "container-oneColumn",
+			"items": [{
+				"type": "7",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"style": {
+					"aspectRatio": "6"
+				}
+			}]
+		}, {
+			"type": "container-twoColumn",
+			"items": [{
+				"type": "8",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1"
+				},
+				"actionParams": {
+					"goodid": "NS116704"
+				}
+			}, {
+				"type": "8",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1"
+				},
+				"actionParams": {
+					"goodid": "NS116704"
+				}
+			}, {
+				"type": "8",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1"
+				},
+				"actionParams": {
+					"goodid": "NS116704"
+				}
+			}, {
+				"type": "8",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1"
+				},
+				"actionParams": {
+					"goodid": "NS116704"
+				}
+			}, {
+				"type": "8",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1"
+				},
+				"actionParams": {
+					"goodid": "NS116704"
+				}
+			}, {
+				"type": "8",
+				"imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+				"action": "ACTION_BANNERGOODS",
+				"style": {
+					"aspectRatio": "1"
+				},
+				"actionParams": {
+					"goodid": "NS116704"
+				}
+			}],
+			"style": {
+				"margin": ["0", "0", "10", "0"],
+				"vGap": "2",
+				"hGap": "2",
+				"column": "2"
+			}
+		}]
+	}
+}

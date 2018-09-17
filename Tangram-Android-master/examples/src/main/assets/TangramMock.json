@@ -1,0 +1,378 @@
+[
+  {
+    "type": "container-banner",
+    "items": [
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ????1",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/30718347361497802.jpg",
+        "action": "?? ????2",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+        "action": "?? ????3",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/35383357070689761.jpg",
+        "action": "?? ????4",
+        "style": {
+          "aspectRatio": "2"
+        }
+      }
+    ],
+    "header": {
+      "type": "2",
+      "text": "????"
+    },
+    "style": {
+      "aspectRatio": "2",
+      "autoScroll": "3000",
+      "infinite": "true",
+      "indicatorGravity": "center",
+      "indicatorPosition": "inside",
+      "indicatorStyle": "dot",
+      "indicatorRadius": "5",
+      "defaultIndicatorColor": "#333333",
+      "indicatorColor": "#B4B4B4",
+      "hasIndicator": "true",
+      "width": "-1"
+    }
+  },
+  {
+    "type": "container-oneColumn",
+    "items": [
+      {
+        "type": "1",
+        "imgUrl": "http://timgsa.baidu.com/timg?image\u0026quality\u003d80\u0026size\u003db9999_10000\u0026sec\u003d1514353518617\u0026di\u003d53718a565ebf5228f5e6726bfbcdc98a\u0026imgtype\u003d0\u0026src\u003dhttp://img.zcool.cn/community/01db3158febb8aa801214550a00024.gif",
+        "action": "?? ??(???)",
+        "style": {
+          "aspectRatio": "1.7"
+        }
+      }
+    ],
+    "header": {
+      "type": "2",
+      "text": "??(???)"
+    }
+  },
+  {
+    "type": "container-twoColumn",
+    "items": [
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??1",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+        "action": "?? ??2",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??3",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+        "action": "?? ??4",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??5",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+        "action": "?? ??6",
+        "style": {
+          "aspectRatio": "2"
+        }
+      }
+    ],
+    "header": {
+      "type": "2",
+      "text": "??"
+    }
+  },
+  {
+    "type": "container-sticky",
+    "items": [
+      {
+        "type": "2",
+        "text": "????",
+        "action": "?? ????",
+        "style": {
+          "bgColor": "#00ffff",
+          "width": "-1",
+          "height": "50"
+        }
+      }
+    ],
+    "style": {
+      "bgColor": "#00ffff",
+      "enableScroll": "true"
+    }
+  },
+  {
+    "type": "container-onePlusN",
+    "items": [
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??2??1",
+        "style": {
+          "aspectRatio": "1"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+        "action": "?? ??2??2",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??2??3",
+        "style": {
+          "aspectRatio": "2",
+          "margin": [
+            "1",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      }
+    ],
+    "header": {
+      "type": "2",
+      "text": "??2??"
+    },
+    "style": {
+      "cols": [
+        "50",
+        "50"
+      ]
+    }
+  },
+  {
+    "type": "container-onePlusN",
+    "items": [
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??3??1",
+        "style": {
+          "aspectRatio": "1"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+        "action": "?? ??3??2",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??3??3",
+        "style": {
+          "aspectRatio": "1",
+          "margin": [
+            "1",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ??3??4",
+        "style": {
+          "aspectRatio": "1",
+          "margin": [
+            "1",
+            "0",
+            "0",
+            "1"
+          ]
+        }
+      }
+    ],
+    "header": {
+      "type": "2",
+      "text": "??3??"
+    },
+    "style": {
+      "cols": [
+        "50",
+        "50"
+      ]
+    }
+  },
+  {
+    "type": "container-float",
+    "items": [
+      {
+        "type": "3",
+        "text": "??",
+        "action": "??",
+        "style": {
+          "width": "60",
+          "height": "60"
+        }
+      }
+    ],
+    "style": {
+      "bgColor": "#00ffffff",
+      "align": "bottom_right",
+      "x": "20",
+      "y": "80"
+    }
+  },
+  {
+    "type": "container-fix",
+    "items": [
+      {
+        "type": "2",
+        "text": "????",
+        "action": "?? ????",
+        "style": {
+          "bgColor": "#77ffffff",
+          "width": "-1",
+          "height": "50"
+        }
+      }
+    ],
+    "style": {
+      "bgColor": "#77ffffff",
+      "align": "bottom_left",
+      "showType": "always",
+      "appearanceType": "scroll"
+    }
+  },
+  {
+    "type": "container-waterfall",
+    "items": [
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ?????1",
+        "style": {
+          "aspectRatio": "1"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32530470132096044.jpg",
+        "action": "?? ?????2",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ?????3",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ?????4",
+        "style": {
+          "aspectRatio": "1"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ?????5",
+        "style": {
+          "aspectRatio": "1"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ?????6",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ?????7",
+        "style": {
+          "aspectRatio": "2"
+        }
+      },
+      {
+        "type": "1",
+        "imgUrl": "http://image.mihui365.com/bbc/bannerImg/32533305645082901.jpg",
+        "action": "?? ?????8",
+        "style": {
+          "aspectRatio": "1"
+        }
+      }
+    ],
+    "header": {
+      "type": "2",
+      "text": "?????"
+    },
+    "style": {
+      "margin": [
+        "0",
+        "0",
+        "20",
+        "0"
+      ],
+      "vGap": "5",
+      "hGap": "5",
+      "column": "2"
+    }
+  }
+]
